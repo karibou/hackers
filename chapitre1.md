@@ -32,4 +32,9 @@ fait un mode de foncionnement incontournable. Votre téléphone Android, il est 
 sur quelque canal IRC.  Le site WEB que vous consulté aussi il a quelque chose à
 voir avec IRC.  Mais ça sa ne vous concerne pas.  Moi c'est ma vie.
 
+En attendant, vous envoyez des SMS en pensant être à la pointe de la
+technologie, parce qu'il y a quelqu'un à l'autre bout qui vous répond presque
+en temps réel.
 
+    infinity> c'est pas ça, c'est juste que tout rame aujourd'hui
+    caribou> Pas grave, je vais me coucher, je verrai ça demain
